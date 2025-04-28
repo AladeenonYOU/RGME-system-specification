@@ -1,0 +1,3357 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.12)  14 APR 2025 18:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"RGME system design specification"
+(./RGME system design specification.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/subfloat/subfloat.sty
+Package: subfloat 2003/08/21 version 2.14
+ Package `subfloat', Version 2.14 of 2003/08/21.
+
+Package subfloat Warning: Numbers of floats not counted:
+(subfloat)                If you use one of the counters subfloatfiguremax or
+(subfloat)                subfloattablemax you will get strange error messages
+(subfloat)                containing \c@subfloatfiguremax or
+(subfloat)                \c@subfloattablemax:
+(subfloat)                Please switch on countmax or remove the code using
+(subfloat)                the counter then..
+
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks17
+\float@box=\box52
+\@float@everytoks=\toks18
+\@floatcapt=\box53
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen142
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count276
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip17
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks20
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks21
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box56
+\extrarowheight=\dimen154
+\NC@list=\toks25
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box57
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count285
+\calc@Cskip=\skip58
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen157
+\ESO@tempdimb=\dimen158
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
+)
+\AM@pagewidth=\dimen159
+\AM@pageheight=\dimen160
+\AM@fboxrule=\dimen161
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count287
+\AM@pagebox=\box58
+\AM@global@opts=\toks26
+\AM@pagecnt=\count288
+\AM@toc@title=\toks27
+\AM@lof@heading=\toks28
+\c@AM@survey=\count289
+\AM@templatesizebox=\box59
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count290
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen162
+\Hy@linkcounter=\count291
+\Hy@pagecounter=\count292
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count293
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count294
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen163
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count295
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count296
+\c@Item=\count297
+\c@Hfootnote=\count298
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count299
+\c@bookmark@seq@number=\count300
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip59
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen166
+\lightrulewidth=\dimen167
+\cmidrulewidth=\dimen168
+\belowrulesep=\dimen169
+\belowbottomsep=\dimen170
+\aboverulesep=\dimen171
+\abovetopsep=\dimen172
+\cmidrulesep=\dimen173
+\cmidrulekern=\dimen174
+\defaultaddspace=\dimen175
+\@cmidla=\count301
+\@cmidlb=\count302
+\@aboverulesep=\dimen176
+\@belowrulesep=\dimen177
+\@thisruleclass=\count303
+\@lastruleclass=\count304
+\@thisrulewidth=\dimen178
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count305
+\multirow@dima=\skip61
+\bigstrutjot=\dimen179
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip62
+\f@nch@offset@elh=\skip63
+\f@nch@offset@erh=\skip64
+\f@nch@offset@olh=\skip65
+\f@nch@offset@orh=\skip66
+\f@nch@offset@elf=\skip67
+\f@nch@offset@erf=\skip68
+\f@nch@offset@olf=\skip69
+\f@nch@offset@orf=\skip70
+\f@nch@height=\skip71
+\f@nch@footalignment=\skip72
+\f@nch@widthL=\skip73
+\f@nch@widthC=\skip74
+\f@nch@widthR=\skip75
+\@temptokenb=\toks29
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen180
+\captionmargin=\dimen181
+\caption@leftmargin=\dimen182
+\caption@rightmargin=\dimen183
+\caption@width=\dimen184
+\caption@indent=\dimen185
+\caption@parindent=\dimen186
+\caption@hangindent=\dimen187
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count306
+\c@continuedfloat=\count307
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+\c@KVtest=\count308
+\sf@farskip=\skip76
+\sf@captopadj=\dimen188
+\sf@capskip=\skip77
+\sf@nearskip=\skip78
+\c@subfigure=\count309
+\c@subfigure@save=\count310
+\c@lofdepth=\count311
+\c@subtable=\count312
+\c@subtable@save=\count313
+\c@lotdepth=\count314
+\sf@top=\skip79
+\sf@bottom=\skip80
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box60
+) (./RGME system design specification.aux
+
+LaTeX Warning: Label `tab:order-ratio' multiply defined.
+
+)
+\openout1 = `"RGME system design specification.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count316
+\scratchdimen=\dimen189
+\scratchbox=\box61
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen190
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks31
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package hyperref Info: Link coloring OFF on input line 34.
+ (./RGME system design specification.out) (./RGME system design specification.out)
+\@outlinefile=\write3
+\openout3 = `"RGME system design specification.out"'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./Ensoniclogo.png, id=309, 126.4725pt x 65.043pt>
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 36.
+(pdftex.def)             Requested size: 276.00105pt x 141.94672pt.
+
+
+[1
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Ensoniclogo.png>] (./RGME system design specification.toc
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 41.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[2
+
+]
+Overfull \hbox (4.43584pt too wide) in paragraph at lines 74--74
+ [][] [][]\OT1/cmr/m/n/10 GB/T17626-2018/IEC61000:2008 \OT1/cmr/m/it/10 Elec-tro-mag-netic com-pat- 
+ []
+
+
+Overfull \hbox (2.75797pt too wide) in paragraph at lines 75--75
+ [][] [][]\OT1/cmr/m/n/10 GB/T4208-2017/IEC60529:2013 \OT1/cmr/m/it/10 De-grees of pro-tec-tion pro- 
+ []
+
+
+Overfull \hbox (3.34799pt too wide) in paragraph at lines 78--78
+ [][] [][]\OT1/cmr/m/n/10 EN 50155:2017 \OT1/cmr/m/it/10 Rail-way ap-pli-ca-tions | Rolling stock equip- 
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 80.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[3])
+\tf@toc=\write4
+\openout4 = `"RGME system design specification.toc"'.
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 38.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[4]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 46.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[5
+
+]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 63.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[6
+
+]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 82.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[7{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (0.72289pt too wide) in paragraph at lines 92--93
+[]\OT1/cmr/m/n/10 Application layer: in-clude two parts, one is the ap-pli-ca-tion pro-gram mainly
+ []
+
+<./系统框架图.png, id=436, 2995.19pt x 1678.27pt>
+File: ./系统框架图.png Graphic file (type png)
+<use ./系统框架图.png>
+Package pdftex.def Info: ./系统框架图.png  used on input line 97.
+(pdftex.def)             Requested size: 276.00105pt x 154.64854pt.
+<./工作流程图.png, id=437, 2732.2075pt x 1278.7775pt>
+File: ./工作流程图.png Graphic file (type png)
+<use ./工作流程图.png>
+Package pdftex.def Info: ./工作流程图.png  used on input line 105.
+(pdftex.def)             Requested size: 276.00105pt x 129.17307pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 110.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[8 <./系统框架图.png>]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 128.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[9 <./工作流程图.png>]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 162.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[10]
+<./滚体擦伤.png, id=463, 375.65344pt x 425.33907pt>
+File: ./滚体擦伤.png Graphic file (type png)
+<use ./滚体擦伤.png>
+Package pdftex.def Info: ./滚体擦伤.png  used on input line 171.
+(pdftex.def)             Requested size: 276.00105pt x 312.52634pt.
+
+Overfull \hbox (10.82469pt too wide) in paragraph at lines 176--177
+\OT1/cmr/m/n/10 chem-i-cal cor-ro-sion, elec-tri-cal cor-ro-sion and micro-vibration cor-ro-sion. Chem-
+ []
+
+
+Overfull \hbox (7.01903pt too wide) in paragraph at lines 176--177
+\OT1/cmr/m/n/10 caused by elec-tric sparks gen-er-ated by elec-tric cur-rents. The micro-vibration
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 180.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[11
+
+]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 180.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[12 <./滚体擦伤.png>]
+<./轴承结构简图.png, id=481, 1431.3475pt x 680.5425pt>
+File: ./轴承结构简图.png Graphic file (type png)
+<use ./轴承结构简图.png>
+Package pdftex.def Info: ./轴承结构简图.png  used on input line 192.
+(pdftex.def)             Requested size: 276.00105pt x 131.2255pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 202.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[13]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 248.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[14 <./轴承结构简图.png>]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 301.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[15]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 335.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[16]
+<./Wheel rolling.png, id=545, 251.94125pt x 165.61874pt>
+File: ./Wheel rolling.png Graphic file (type png)
+<use ./Wheel rolling.png>
+Package pdftex.def Info: ./Wheel rolling.png  used on input line 343.
+(pdftex.def)             Requested size: 276.00105pt x 181.43567pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 349.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[17 <./Wheel rolling.png>]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 401.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[18]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 407.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[19]
+Overfull \hbox (5.0173pt too wide) in paragraph at lines 415--466
+ [][] 
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 514.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[20
+
+]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 514.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[21]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./走行部电源供电电气原理图.pdf, id=583, 845.1575pt x 597.23125pt>
+File: ./走行部电源供电电气原理图.pdf Graphic file (type pdf)
+<use ./走行部电源供电电气原理图.pdf>
+Package pdftex.def Info: ./走行部电源供电电气原理图.pdf  used on input line 517.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
+<./走行部电源供电电气原理图.pdf, id=585, page=1, 845.1575pt x 597.23125pt>
+File: ./走行部电源供电电气原理图.pdf Graphic file (type pdf)
+<use ./走行部电源供电电气原理图.pdf, page 1>
+Package pdftex.def Info: ./走行部电源供电电气原理图.pdf , page1 used on input line 517.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
+File: ./走行部电源供电电气原理图.pdf Graphic file (type pdf)
+<use ./走行部电源供电电气原理图.pdf, page 1>
+Package pdftex.def Info: ./走行部电源供电电气原理图.pdf , page1 used on input line 517.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 517.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[22
+
+]
+File: ./走行部电源供电电气原理图.pdf Graphic file (type pdf)
+<use ./走行部电源供电电气原理图.pdf, page 1>
+Package pdftex.def Info: ./走行部电源供电电气原理图.pdf , page1 used on input line 517.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+File: ./走行部电源供电电气原理图.pdf Graphic file (type pdf)
+<use ./走行部电源供电电气原理图.pdf, page 1>
+Package pdftex.def Info: ./走行部电源供电电气原理图.pdf , page1 used on input line 517.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+
+
+File: ./走行部电源供电电气原理图.pdf Graphic file (type pdf)
+<use ./走行部电源供电电气原理图.pdf, page 1>
+Package pdftex.def Info: ./走行部电源供电电气原理图.pdf , page1 used on input line 517.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+[23
+
+ <./走行部电源供电电气原理图.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./走行部电气原理图_电池.pdf, id=616, 845.1575pt x 597.23125pt>
+File: ./走行部电气原理图_电池.pdf Graphic file (type pdf)
+<use ./走行部电气原理图_电池.pdf>
+Package pdftex.def Info: ./走行部电气原理图_电池.pdf  used on input line 519.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
+<./走行部电气原理图_电池.pdf, id=618, page=1, 845.1575pt x 597.23125pt>
+File: ./走行部电气原理图_电池.pdf Graphic file (type pdf)
+<use ./走行部电气原理图_电池.pdf, page 1>
+Package pdftex.def Info: ./走行部电气原理图_电池.pdf , page1 used on input line 519.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
+File: ./走行部电气原理图_电池.pdf Graphic file (type pdf)
+<use ./走行部电气原理图_电池.pdf, page 1>
+Package pdftex.def Info: ./走行部电气原理图_电池.pdf , page1 used on input line 519.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 519.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[24]
+File: ./走行部电气原理图_电池.pdf Graphic file (type pdf)
+<use ./走行部电气原理图_电池.pdf, page 1>
+Package pdftex.def Info: ./走行部电气原理图_电池.pdf , page1 used on input line 519.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+File: ./走行部电气原理图_电池.pdf Graphic file (type pdf)
+<use ./走行部电气原理图_电池.pdf, page 1>
+Package pdftex.def Info: ./走行部电气原理图_电池.pdf , page1 used on input line 519.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+
+
+File: ./走行部电气原理图_电池.pdf Graphic file (type pdf)
+<use ./走行部电气原理图_电池.pdf, page 1>
+Package pdftex.def Info: ./走行部电气原理图_电池.pdf , page1 used on input line 519.
+(pdftex.def)             Requested size: 633.86658pt x 447.92233pt.
+[25
+
+ <./走行部电气原理图_电池.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./声纹终端装配体.pdf, id=645, 1195.01462pt x 845.0471pt>
+File: ./声纹终端装配体.pdf Graphic file (type pdf)
+<use ./声纹终端装配体.pdf>
+Package pdftex.def Info: ./声纹终端装配体.pdf  used on input line 524.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./声纹终端装配体.pdf, id=647, page=1, 1195.01462pt x 845.0471pt>
+File: ./声纹终端装配体.pdf Graphic file (type pdf)
+<use ./声纹终端装配体.pdf, page 1>
+Package pdftex.def Info: ./声纹终端装配体.pdf , page1 used on input line 524.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./声纹终端装配体.pdf Graphic file (type pdf)
+<use ./声纹终端装配体.pdf, page 1>
+Package pdftex.def Info: ./声纹终端装配体.pdf , page1 used on input line 524.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 524.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[26
+
+]
+File: ./声纹终端装配体.pdf Graphic file (type pdf)
+<use ./声纹终端装配体.pdf, page 1>
+Package pdftex.def Info: ./声纹终端装配体.pdf , page1 used on input line 524.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./声纹终端装配体.pdf Graphic file (type pdf)
+<use ./声纹终端装配体.pdf, page 1>
+Package pdftex.def Info: ./声纹终端装配体.pdf , page1 used on input line 524.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./声纹终端装配体.pdf Graphic file (type pdf)
+<use ./声纹终端装配体.pdf, page 1>
+Package pdftex.def Info: ./声纹终端装配体.pdf , page1 used on input line 524.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[27
+
+ <./声纹终端装配体.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./电池装配体.pdf, id=675, 1195.01462pt x 845.0471pt>
+File: ./电池装配体.pdf Graphic file (type pdf)
+<use ./电池装配体.pdf>
+Package pdftex.def Info: ./电池装配体.pdf  used on input line 526.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./电池装配体.pdf, id=677, page=1, 1195.01462pt x 845.0471pt>
+File: ./电池装配体.pdf Graphic file (type pdf)
+<use ./电池装配体.pdf, page 1>
+Package pdftex.def Info: ./电池装配体.pdf , page1 used on input line 526.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./电池装配体.pdf Graphic file (type pdf)
+<use ./电池装配体.pdf, page 1>
+Package pdftex.def Info: ./电池装配体.pdf , page1 used on input line 526.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 526.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[28]
+File: ./电池装配体.pdf Graphic file (type pdf)
+<use ./电池装配体.pdf, page 1>
+Package pdftex.def Info: ./电池装配体.pdf , page1 used on input line 526.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./电池装配体.pdf Graphic file (type pdf)
+<use ./电池装配体.pdf, page 1>
+Package pdftex.def Info: ./电池装配体.pdf , page1 used on input line 526.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./电池装配体.pdf Graphic file (type pdf)
+<use ./电池装配体.pdf, page 1>
+Package pdftex.def Info: ./电池装配体.pdf , page1 used on input line 526.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[29
+
+ <./电池装配体.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./电源装配体.pdf, id=705, 1195.01462pt x 845.0471pt>
+File: ./电源装配体.pdf Graphic file (type pdf)
+<use ./电源装配体.pdf>
+Package pdftex.def Info: ./电源装配体.pdf  used on input line 528.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./电源装配体.pdf, id=707, page=1, 1195.01462pt x 845.0471pt>
+File: ./电源装配体.pdf Graphic file (type pdf)
+<use ./电源装配体.pdf, page 1>
+Package pdftex.def Info: ./电源装配体.pdf , page1 used on input line 528.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./电源装配体.pdf Graphic file (type pdf)
+<use ./电源装配体.pdf, page 1>
+Package pdftex.def Info: ./电源装配体.pdf , page1 used on input line 528.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 528.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[30]
+File: ./电源装配体.pdf Graphic file (type pdf)
+<use ./电源装配体.pdf, page 1>
+Package pdftex.def Info: ./电源装配体.pdf , page1 used on input line 528.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./电源装配体.pdf Graphic file (type pdf)
+<use ./电源装配体.pdf, page 1>
+Package pdftex.def Info: ./电源装配体.pdf , page1 used on input line 528.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./电源装配体.pdf Graphic file (type pdf)
+<use ./电源装配体.pdf, page 1>
+Package pdftex.def Info: ./电源装配体.pdf , page1 used on input line 528.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[31
+
+ <./电源装配体.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./安装支架.pdf, id=736, 1195.01462pt x 845.0471pt>
+File: ./安装支架.pdf Graphic file (type pdf)
+<use ./安装支架.pdf>
+Package pdftex.def Info: ./安装支架.pdf  used on input line 530.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./安装支架.pdf, id=738, page=1, 1195.01462pt x 845.0471pt>
+File: ./安装支架.pdf Graphic file (type pdf)
+<use ./安装支架.pdf, page 1>
+Package pdftex.def Info: ./安装支架.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./安装支架.pdf Graphic file (type pdf)
+<use ./安装支架.pdf, page 1>
+Package pdftex.def Info: ./安装支架.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 530.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[32]
+File: ./安装支架.pdf Graphic file (type pdf)
+<use ./安装支架.pdf, page 1>
+Package pdftex.def Info: ./安装支架.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./安装支架.pdf Graphic file (type pdf)
+<use ./安装支架.pdf, page 1>
+Package pdftex.def Info: ./安装支架.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./安装支架.pdf Graphic file (type pdf)
+<use ./安装支架.pdf, page 1>
+Package pdftex.def Info: ./安装支架.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[33
+
+ <./安装支架.pdf>]
+<RGME module.png, id=767, 29.2365pt x 42.705pt>
+File: RGME module.png Graphic file (type png)
+<use RGME module.png>
+Package pdftex.def Info: RGME module.png  used on input line 556.
+(pdftex.def)             Requested size: 29.23642pt x 42.70488pt.
+<Battery module.png, id=768, 186.6975pt x 287.0725pt>
+File: Battery module.png Graphic file (type png)
+<use Battery module.png>
+Package pdftex.def Info: Battery module.png  used on input line 557.
+(pdftex.def)             Requested size: 27.60063pt x 42.437pt.
+<Mounting.png, id=769, 43.6905pt x 42.705pt>
+File: Mounting.png Graphic file (type png)
+<use Mounting.png>
+Package pdftex.def Info: Mounting.png  used on input line 559.
+(pdftex.def)             Requested size: 43.69038pt x 42.70488pt.
+<M6x7.png, id=770, 69.3135pt x 34.164pt>
+File: M6x7.png Graphic file (type png)
+<use M6x7.png>
+Package pdftex.def Info: M6x7.png  used on input line 560.
+(pdftex.def)             Requested size: 69.31332pt x 34.1639pt.
+<M5x8.png, id=771, 86.067pt x 42.705pt>
+File: M5x8.png Graphic file (type png)
+<use M5x8.png>
+Package pdftex.def Info: M5x8.png  used on input line 561.
+(pdftex.def)             Requested size: 86.06677pt x 42.70488pt.
+
+Overfull \hbox (49.03125pt too wide) in paragraph at lines 551--564
+ [][] 
+ []
+
+
+Overfull \hbox (9.70796pt too wide) in paragraph at lines 567--568
+[]\OT1/cmr/m/n/10 Onsite in-stal-la-tion po-si-tion con-fir-ma-tion, RGME mod-ule and Power/Battery
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--569
+
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 569.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[34 <./RGME module.png (PNG copy)> <./Battery module.png> <./Mounting.png (PNG copy)> <./M6x7.png (PNG copy)> <./M5x8.png (PNG copy)>]
+<RGME Mounting.png, id=780, 600.2425pt x 1128.215pt>
+File: RGME Mounting.png Graphic file (type png)
+<use RGME Mounting.png>
+Package pdftex.def Info: RGME Mounting.png  used on input line 570.
+(pdftex.def)             Requested size: 68.99895pt x 129.68173pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
+
+ []
+
+<Battery Mounting.png, id=781, 574.145pt x 1078.0275pt>
+File: Battery Mounting.png Graphic file (type png)
+<use Battery Mounting.png>
+Package pdftex.def Info: Battery Mounting.png  used on input line 574.
+(pdftex.def)             Requested size: 68.99895pt x 129.53865pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
+
+ []
+
+<Mark1.png, id=782, 562.1pt x 634.37pt>
+File: Mark1.png Graphic file (type png)
+<use Mark1.png>
+Package pdftex.def Info: Mark1.png  used on input line 578.
+(pdftex.def)             Requested size: 103.50105pt x 116.80486pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 579.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[35 <./RGME Mounting.png> <./Battery Mounting.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+
+ []
+
+<RGME ready.png, id=792, 967.615pt x 546.04pt>
+File: RGME ready.png Graphic file (type png)
+<use RGME ready.png>
+Package pdftex.def Info: RGME ready.png  used on input line 585.
+(pdftex.def)             Requested size: 172.5pt x 97.34145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 588--589
+
+ []
+
+<Mark2.png, id=793, 1017.8025pt x 684.5575pt>
+File: Mark2.png Graphic file (type png)
+<use Mark2.png>
+Package pdftex.def Info: Mark2.png  used on input line 590.
+(pdftex.def)             Requested size: 172.5pt x 116.01808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
+
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 593.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[36 <./Mark1.png> <./RGME ready.png> <./Mark2.png>]
+<Battery ready.png, id=805, 967.615pt x 582.175pt>
+File: Battery ready.png Graphic file (type png)
+<use Battery ready.png>
+Package pdftex.def Info: Battery ready.png  used on input line 594.
+(pdftex.def)             Requested size: 172.5pt x 103.78316pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 596--597
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--598
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
+
+ []
+
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./现场安装示意图_声纹终端.pdf, id=806, 1195.01462pt x 845.0471pt>
+File: ./现场安装示意图_声纹终端.pdf Graphic file (type pdf)
+<use ./现场安装示意图_声纹终端.pdf>
+Package pdftex.def Info: ./现场安装示意图_声纹终端.pdf  used on input line 600.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./现场安装示意图_声纹终端.pdf, id=808, page=1, 1195.01462pt x 845.0471pt>
+File: ./现场安装示意图_声纹终端.pdf Graphic file (type pdf)
+<use ./现场安装示意图_声纹终端.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_声纹终端.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./现场安装示意图_声纹终端.pdf Graphic file (type pdf)
+<use ./现场安装示意图_声纹终端.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_声纹终端.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 600.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[37 <./Battery ready.png>]
+File: ./现场安装示意图_声纹终端.pdf Graphic file (type pdf)
+<use ./现场安装示意图_声纹终端.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_声纹终端.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./现场安装示意图_声纹终端.pdf Graphic file (type pdf)
+<use ./现场安装示意图_声纹终端.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_声纹终端.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+
+
+File: ./现场安装示意图_声纹终端.pdf Graphic file (type pdf)
+<use ./现场安装示意图_声纹终端.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_声纹终端.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+[38
+
+ <./现场安装示意图_声纹终端.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./现场安装示意图_电池.pdf, id=849, 1195.01462pt x 845.0471pt>
+File: ./现场安装示意图_电池.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电池.pdf>
+Package pdftex.def Info: ./现场安装示意图_电池.pdf  used on input line 601.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./现场安装示意图_电池.pdf, id=851, page=1, 1195.01462pt x 845.0471pt>
+File: ./现场安装示意图_电池.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电池.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电池.pdf , page1 used on input line 601.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./现场安装示意图_电池.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电池.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电池.pdf , page1 used on input line 601.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./现场安装示意图_电池.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电池.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电池.pdf , page1 used on input line 601.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./现场安装示意图_电池.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电池.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电池.pdf , page1 used on input line 601.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+
+
+File: ./现场安装示意图_电池.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电池.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电池.pdf , page1 used on input line 601.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+[39
+
+ <./现场安装示意图_电池.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./电池安装_布局示意图.pdf, id=883, 1195.01462pt x 845.0471pt>
+File: ./电池安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电池安装_布局示意图.pdf>
+Package pdftex.def Info: ./电池安装_布局示意图.pdf  used on input line 602.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./电池安装_布局示意图.pdf, id=885, page=1, 1195.01462pt x 845.0471pt>
+File: ./电池安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电池安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电池安装_布局示意图.pdf , page1 used on input line 602.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./电池安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电池安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电池安装_布局示意图.pdf , page1 used on input line 602.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./电池安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电池安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电池安装_布局示意图.pdf , page1 used on input line 602.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./电池安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电池安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电池安装_布局示意图.pdf , page1 used on input line 602.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./电池安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电池安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电池安装_布局示意图.pdf , page1 used on input line 602.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[40
+
+ <./电池安装_布局示意图.pdf>]
+Overfull \hbox (18.2117pt too wide) in paragraph at lines 608--625
+ [][] 
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 627.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[41]
+File: RGME module.png Graphic file (type png)
+<use RGME module.png>
+Package pdftex.def Info: RGME module.png  used on input line 636.
+(pdftex.def)             Requested size: 29.23642pt x 42.70488pt.
+<Power module.png, id=928, 149.55875pt x 237.88875pt>
+File: Power module.png Graphic file (type png)
+<use Power module.png>
+Package pdftex.def Info: Power module.png  used on input line 638.
+(pdftex.def)             Requested size: 27.60063pt x 43.89983pt.
+File: Mounting.png Graphic file (type png)
+<use Mounting.png>
+Package pdftex.def Info: Mounting.png  used on input line 639.
+(pdftex.def)             Requested size: 43.69038pt x 42.70488pt.
+File: M6x7.png Graphic file (type png)
+<use M6x7.png>
+Package pdftex.def Info: M6x7.png  used on input line 640.
+(pdftex.def)             Requested size: 69.31332pt x 34.1639pt.
+File: M5x8.png Graphic file (type png)
+<use M5x8.png>
+Package pdftex.def Info: M5x8.png  used on input line 641.
+(pdftex.def)             Requested size: 86.06677pt x 42.70488pt.
+<Power cable.png, id=929, 37.449pt x 42.705pt>
+File: Power cable.png Graphic file (type png)
+<use Power cable.png>
+Package pdftex.def Info: Power cable.png  used on input line 642.
+(pdftex.def)             Requested size: 37.4489pt x 42.70488pt.
+<A-code.png, id=930, 199.87172pt x 162.9839pt>
+File: A-code.png Graphic file (type png)
+<use A-code.png>
+Package pdftex.def Info: A-code.png  used on input line 643.
+(pdftex.def)             Requested size: 51.7479pt x 42.19574pt.
+<Plug.png, id=931, 40.077pt x 42.705pt>
+File: Plug.png Graphic file (type png)
+<use Plug.png>
+Package pdftex.def Info: Plug.png  used on input line 644.
+(pdftex.def)             Requested size: 40.07689pt x 42.70488pt.
+<X-code.png, id=932, 42.705pt x 42.705pt>
+File: X-code.png Graphic file (type png)
+<use X-code.png>
+Package pdftex.def Info: X-code.png  used on input line 645.
+(pdftex.def)             Requested size: 42.70488pt x 42.70488pt.
+<热缩管.png, id=933, 275.0275pt x 176.66pt>
+File: 热缩管.png Graphic file (type png)
+<use 热缩管.png>
+Package pdftex.def Info: 热缩管.png  used on input line 646.
+(pdftex.def)             Requested size: 51.7479pt x 33.23958pt.
+<线缆保护管.png, id=934, 409.53pt x 262.9825pt>
+File: 线缆保护管.png Graphic file (type png)
+<use 线缆保护管.png>
+Package pdftex.def Info: 线缆保护管.png  used on input line 647.
+(pdftex.def)             Requested size: 51.7479pt x 33.22986pt.
+
+Overfull \hbox (28.83199pt too wide) in paragraph at lines 631--649
+ [][] 
+ []
+
+
+Overfull \hbox (9.70796pt too wide) in paragraph at lines 652--653
+[]\OT1/cmr/m/n/10 Onsite in-stal-la-tion po-si-tion con-fir-ma-tion, RGME mod-ule and Power/Battery
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 653.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[42
+
+ <./Power module.png> <./Power cable.png (PNG copy)> <./A-code.png (PNG copy)> <./Plug.png> <./X-code.png> <./热缩管.png> <./线缆保护管.png>]
+<Power socket.jpg, id=947, 1283.79625pt x 1712.3975pt>
+File: Power socket.jpg Graphic file (type jpg)
+<use Power socket.jpg>
+Package pdftex.def Info: Power socket.jpg  used on input line 655.
+(pdftex.def)             Requested size: 172.5pt x 230.06627pt.
+<Power module open B.png, id=948, 98.2215pt x 170.82pt>
+File: Power module open B.png Graphic file (type png)
+<use Power module open B.png>
+Package pdftex.def Info: Power module open B.png  used on input line 668.
+(pdftex.def)             Requested size: 98.22124pt x 170.81958pt.
+
+Underfull \hbox (badness 1527) in paragraph at lines 679--679
+[]|\OT1/cmr/m/n/10 AC220V power sup-ply in-put, ca-ble
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 680--680
+[]|\OT1/cmr/m/n/10 AC220V power sup-ply in-put, ca-ble
+ []
+
+
+Overfull \hbox (74.88576pt too wide) in paragraph at lines 674--686
+ [][] 
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 686.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[43 <./Power socket.jpg>]
+<A-code connection.png, id=963, 362.007pt x 512.1315pt>
+File: A-code connection.png Graphic file (type png)
+<use A-code connection.png>
+Package pdftex.def Info: A-code connection.png  used on input line 706.
+(pdftex.def)             Requested size: 276.00105pt x 390.45866pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 709.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[44 <./Power module open B.png (PNG copy)>]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 724.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[45 <./A-code connection.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 724--725
+
+ []
+
+File: RGME Mounting.png Graphic file (type png)
+<use RGME Mounting.png>
+Package pdftex.def Info: RGME Mounting.png  used on input line 726.
+(pdftex.def)             Requested size: 68.99895pt x 129.68173pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--729
+
+ []
+
+File: Battery Mounting.png Graphic file (type png)
+<use Battery Mounting.png>
+Package pdftex.def Info: Battery Mounting.png  used on input line 730.
+(pdftex.def)             Requested size: 68.99895pt x 129.53865pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--733
+
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 733.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[46]
+File: Mark1.png Graphic file (type png)
+<use Mark1.png>
+Package pdftex.def Info: Mark1.png  used on input line 734.
+(pdftex.def)             Requested size: 103.50105pt x 116.80486pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--740
+
+ []
+
+File: RGME ready.png Graphic file (type png)
+<use RGME ready.png>
+Package pdftex.def Info: RGME ready.png  used on input line 741.
+(pdftex.def)             Requested size: 172.5pt x 97.34145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--745
+
+ []
+
+File: Mark2.png Graphic file (type png)
+<use Mark2.png>
+Package pdftex.def Info: Mark2.png  used on input line 746.
+(pdftex.def)             Requested size: 172.5pt x 116.01808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--749
+
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 749.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[47]
+File: Battery ready.png Graphic file (type png)
+<use Battery ready.png>
+Package pdftex.def Info: Battery ready.png  used on input line 750.
+(pdftex.def)             Requested size: 172.5pt x 103.78316pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 753--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
+
+ []
+
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./现场安装示意图_电源.pdf, id=995, 1195.01462pt x 845.0471pt>
+File: ./现场安装示意图_电源.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电源.pdf>
+Package pdftex.def Info: ./现场安装示意图_电源.pdf  used on input line 756.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./现场安装示意图_电源.pdf, id=997, page=1, 1195.01462pt x 845.0471pt>
+File: ./现场安装示意图_电源.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电源.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电源.pdf , page1 used on input line 756.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./现场安装示意图_电源.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电源.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电源.pdf , page1 used on input line 756.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 756.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[48]
+File: ./现场安装示意图_电源.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电源.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电源.pdf , page1 used on input line 756.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./现场安装示意图_电源.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电源.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电源.pdf , page1 used on input line 756.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./现场安装示意图_电源.pdf Graphic file (type pdf)
+<use ./现场安装示意图_电源.pdf, page 1>
+Package pdftex.def Info: ./现场安装示意图_电源.pdf , page1 used on input line 756.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[49
+
+ <./现场安装示意图_电源.pdf>]
+<Cable laying.png, id=1038, 1764.5925pt x 578.16pt>
+File: Cable laying.png Graphic file (type png)
+<use Cable laying.png>
+Package pdftex.def Info: Cable laying.png  used on input line 761.
+(pdftex.def)             Requested size: 276.00105pt x 90.42549pt.
+
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./电源安装_布局示意图.pdf, id=1039, 1195.01462pt x 845.0471pt>
+File: ./电源安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电源安装_布局示意图.pdf>
+Package pdftex.def Info: ./电源安装_布局示意图.pdf  used on input line 769.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<./电源安装_布局示意图.pdf, id=1041, page=1, 1195.01462pt x 845.0471pt>
+File: ./电源安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电源安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电源安装_布局示意图.pdf , page1 used on input line 769.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: ./电源安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电源安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电源安装_布局示意图.pdf , page1 used on input line 769.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 769.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[50 <./Cable laying.png>]
+File: ./电源安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电源安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电源安装_布局示意图.pdf , page1 used on input line 769.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: ./电源安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电源安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电源安装_布局示意图.pdf , page1 used on input line 769.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: ./电源安装_布局示意图.pdf Graphic file (type pdf)
+<use ./电源安装_布局示意图.pdf, page 1>
+Package pdftex.def Info: ./电源安装_布局示意图.pdf , page1 used on input line 769.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[51
+
+ <./电源安装_布局示意图.pdf>]
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 778.
+
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 778.
+
+Missing character: There is no � in font cmr10!
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 787.
+
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 787.
+
+Missing character: There is no � in font cmr10!
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 789.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 802--803
+
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 807.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[53
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 809--810
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--817
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 830.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[54]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 834.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[55]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 865.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[56
+
+]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 897.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[57]
+Overfull \hbox (2.2783pt too wide) in paragraph at lines 901--902
+[]\OT1/cmr/m/n/10 Monitoring and Re-view Fre-quency: Weekly re-view of project progress;
+ []
+
+
+Overfull \hbox (5.31541pt too wide) in paragraph at lines 916--917
+[]\OT1/cmr/m/n/10 Potential Con-se-quences: Re-duced pro-duc-tiv-ity; com-mu-ni-ca-tion break-
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 927.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[58]
+Overfull \hbox (10.63014pt too wide) in paragraph at lines 936--937
+[]\OT1/cmr/m/n/10 Potential Con-se-quences: Project de-lays; cost over-runs; po-ten-tial project
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 959.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[59]
+Overfull \hbox (2.2783pt too wide) in paragraph at lines 974--975
+[]\OT1/cmr/m/n/10 Monitoring and Re-view Fre-quency: Weekly re-view of project progress. 
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 992.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[60]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1010.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[61]
+Overfull \hbox (3.05006pt too wide) in paragraph at lines 1014--1014
+[]\OT1/cmr/bx/n/12 Quality as-sur-ance or-ga-ni-za-tional struc-ture and re-spon-
+ []
+
+
+Overfull \hbox (481.20155pt too wide) in paragraph at lines 1019--1030
+ [][] 
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1032.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[62
+
+]
+<MMI_deviceinfo.png, id=1157, 3611.4925pt x 2015.53pt>
+File: MMI_deviceinfo.png Graphic file (type png)
+<use MMI_deviceinfo.png>
+Package pdftex.def Info: MMI_deviceinfo.png  used on input line 1042.
+(pdftex.def)             Requested size: 345.0pt x 192.523pt.
+<MMI_sampleconfig.png, id=1158, 3611.4925pt x 2019.545pt>
+File: MMI_sampleconfig.png Graphic file (type png)
+<use MMI_sampleconfig.png>
+Package pdftex.def Info: MMI_sampleconfig.png  used on input line 1051.
+(pdftex.def)             Requested size: 345.0pt x 192.9065pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1054.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[63
+
+ <./MMI_deviceinfo.png>]
+<MMI_storageconfig.png, id=1165, 3611.4925pt x 2015.53pt>
+File: MMI_storageconfig.png Graphic file (type png)
+<use MMI_storageconfig.png>
+Package pdftex.def Info: MMI_storageconfig.png  used on input line 1060.
+(pdftex.def)             Requested size: 345.0pt x 192.523pt.
+<MMI_network.png, id=1166, 3611.4925pt x 2023.56pt>
+File: MMI_network.png Graphic file (type png)
+<use MMI_network.png>
+Package pdftex.def Info: MMI_network.png  used on input line 1069.
+(pdftex.def)             Requested size: 345.0pt x 193.29001pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1071.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[64 <./MMI_sampleconfig.png> <./MMI_storageconfig.png>]
+<MMI_server.png, id=1175, 3611.4925pt x 2017.5375pt>
+File: MMI_server.png Graphic file (type png)
+<use MMI_server.png>
+Package pdftex.def Info: MMI_server.png  used on input line 1078.
+(pdftex.def)             Requested size: 345.0pt x 192.71475pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1081.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[65 <./MMI_network.png>]
+<MMI_storage_ex.png, id=1182, 3611.4925pt x 1889.0575pt>
+File: MMI_storage_ex.png Graphic file (type png)
+<use MMI_storage_ex.png>
+Package pdftex.def Info: MMI_storage_ex.png  used on input line 1087.
+(pdftex.def)             Requested size: 345.0pt x 180.44237pt.
+<MMI_log.png, id=1183, 3607.4775pt x 2021.5525pt>
+File: MMI_log.png Graphic file (type png)
+<use MMI_log.png>
+Package pdftex.def Info: MMI_log.png  used on input line 1096.
+(pdftex.def)             Requested size: 345.0pt x 193.31418pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1098.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[66 <./MMI_server.png> <./MMI_storage_ex.png>]
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1100.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[67 <./MMI_log.png>]
+Overfull \hbox (0.86191pt too wide) in paragraph at lines 1104--1105
+\OT1/cmr/m/n/10 Audio/video,information and com-mu-ni-ca-tion tech-nol-ogy equip-ment Safety
+ []
+
+
+Overfull \hbox (5.80621pt too wide) in paragraph at lines 1109--1110
+\OT1/cmr/m/n/10 Railway ap-pli-ca-tions | Rolling-stock equip-ment | Shock and vi-bra-tiontests 
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1112.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[68
+
+]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./GB2423.pdf, id=1204, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf>
+Package pdftex.def Info: ./GB2423.pdf  used on input line 1115.
+(pdftex.def)             Requested size: 580.32666pt x 827.48952pt.
+<./GB2423.pdf, id=1206, page=1, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 1>
+Package pdftex.def Info: ./GB2423.pdf , page1 used on input line 1115.
+(pdftex.def)             Requested size: 580.32666pt x 827.48952pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 1>
+Package pdftex.def Info: ./GB2423.pdf , page1 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1115.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[69
+
+]
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 1>
+Package pdftex.def Info: ./GB2423.pdf , page1 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 1>
+Package pdftex.def Info: ./GB2423.pdf , page1 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 1>
+Package pdftex.def Info: ./GB2423.pdf , page1 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[70
+
+ <./GB2423.pdf>]
+<./GB2423.pdf, id=1217, page=2, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 2>
+Package pdftex.def Info: ./GB2423.pdf , page2 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 2>
+Package pdftex.def Info: ./GB2423.pdf , page2 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 2>
+Package pdftex.def Info: ./GB2423.pdf , page2 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[71
+
+ <./GB2423.pdf>]
+<./GB2423.pdf, id=1223, page=3, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 3>
+Package pdftex.def Info: ./GB2423.pdf , page3 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 3>
+Package pdftex.def Info: ./GB2423.pdf , page3 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 3>
+Package pdftex.def Info: ./GB2423.pdf , page3 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[72
+
+ <./GB2423.pdf>]
+<./GB2423.pdf, id=1229, page=4, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 4>
+Package pdftex.def Info: ./GB2423.pdf , page4 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 4>
+Package pdftex.def Info: ./GB2423.pdf , page4 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 4>
+Package pdftex.def Info: ./GB2423.pdf , page4 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[73
+
+ <./GB2423.pdf>]
+<./GB2423.pdf, id=1236, page=5, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 5>
+Package pdftex.def Info: ./GB2423.pdf , page5 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 5>
+Package pdftex.def Info: ./GB2423.pdf , page5 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 5>
+Package pdftex.def Info: ./GB2423.pdf , page5 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[74
+
+ <./GB2423.pdf>]
+<./GB2423.pdf, id=1242, page=6, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 6>
+Package pdftex.def Info: ./GB2423.pdf , page6 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 6>
+Package pdftex.def Info: ./GB2423.pdf , page6 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 6>
+Package pdftex.def Info: ./GB2423.pdf , page6 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[75
+
+ <./GB2423.pdf>]
+<./GB2423.pdf, id=1248, page=7, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 7>
+Package pdftex.def Info: ./GB2423.pdf , page7 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 7>
+Package pdftex.def Info: ./GB2423.pdf , page7 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 7>
+Package pdftex.def Info: ./GB2423.pdf , page7 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[76
+
+ <./GB2423.pdf>]
+<./GB2423.pdf, id=1254, page=8, 580.32808pt x 827.49153pt>
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 8>
+Package pdftex.def Info: ./GB2423.pdf , page8 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 8>
+Package pdftex.def Info: ./GB2423.pdf , page8 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB2423.pdf Graphic file (type pdf)
+<use ./GB2423.pdf, page 8>
+Package pdftex.def Info: ./GB2423.pdf , page8 used on input line 1115.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[77
+
+ <./GB2423.pdf>]
+Overfull \hbox (3.60289pt too wide) in paragraph at lines 1116--1116
+[]\OT1/cmr/bx/n/10 GB/T17626-2018/IEC61000:2008 \OT1/cmr/bx/it/10 Elec-tro-mag-netic com-pat-i-bil-
+ []
+
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./GB17626.pdf, id=1260, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf>
+Package pdftex.def Info: ./GB17626.pdf  used on input line 1117.
+(pdftex.def)             Requested size: 580.32666pt x 827.48952pt.
+<./GB17626.pdf, id=1262, page=1, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 1>
+Package pdftex.def Info: ./GB17626.pdf , page1 used on input line 1117.
+(pdftex.def)             Requested size: 580.32666pt x 827.48952pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 1>
+Package pdftex.def Info: ./GB17626.pdf , page1 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1117.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[78]
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 1>
+Package pdftex.def Info: ./GB17626.pdf , page1 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 1>
+Package pdftex.def Info: ./GB17626.pdf , page1 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 1>
+Package pdftex.def Info: ./GB17626.pdf , page1 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[79
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1274, page=2, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 2>
+Package pdftex.def Info: ./GB17626.pdf , page2 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 2>
+Package pdftex.def Info: ./GB17626.pdf , page2 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 2>
+Package pdftex.def Info: ./GB17626.pdf , page2 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[80
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1280, page=3, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 3>
+Package pdftex.def Info: ./GB17626.pdf , page3 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 3>
+Package pdftex.def Info: ./GB17626.pdf , page3 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 3>
+Package pdftex.def Info: ./GB17626.pdf , page3 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[81
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1286, page=4, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 4>
+Package pdftex.def Info: ./GB17626.pdf , page4 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 4>
+Package pdftex.def Info: ./GB17626.pdf , page4 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 4>
+Package pdftex.def Info: ./GB17626.pdf , page4 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[82
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1292, page=5, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 5>
+Package pdftex.def Info: ./GB17626.pdf , page5 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 5>
+Package pdftex.def Info: ./GB17626.pdf , page5 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 5>
+Package pdftex.def Info: ./GB17626.pdf , page5 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[83
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1298, page=6, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 6>
+Package pdftex.def Info: ./GB17626.pdf , page6 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 6>
+Package pdftex.def Info: ./GB17626.pdf , page6 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 6>
+Package pdftex.def Info: ./GB17626.pdf , page6 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[84
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1304, page=7, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 7>
+Package pdftex.def Info: ./GB17626.pdf , page7 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 7>
+Package pdftex.def Info: ./GB17626.pdf , page7 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 7>
+Package pdftex.def Info: ./GB17626.pdf , page7 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[85
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1311, page=8, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 8>
+Package pdftex.def Info: ./GB17626.pdf , page8 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 8>
+Package pdftex.def Info: ./GB17626.pdf , page8 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 8>
+Package pdftex.def Info: ./GB17626.pdf , page8 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[86
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1317, page=9, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 9>
+Package pdftex.def Info: ./GB17626.pdf , page9 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 9>
+Package pdftex.def Info: ./GB17626.pdf , page9 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 9>
+Package pdftex.def Info: ./GB17626.pdf , page9 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[87
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1323, page=10, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 10>
+Package pdftex.def Info: ./GB17626.pdf , page10 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 10>
+Package pdftex.def Info: ./GB17626.pdf , page10 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 10>
+Package pdftex.def Info: ./GB17626.pdf , page10 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[88
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1329, page=11, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 11>
+Package pdftex.def Info: ./GB17626.pdf , page11 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 11>
+Package pdftex.def Info: ./GB17626.pdf , page11 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 11>
+Package pdftex.def Info: ./GB17626.pdf , page11 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[89
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1335, page=12, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 12>
+Package pdftex.def Info: ./GB17626.pdf , page12 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 12>
+Package pdftex.def Info: ./GB17626.pdf , page12 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 12>
+Package pdftex.def Info: ./GB17626.pdf , page12 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[90
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1341, page=13, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 13>
+Package pdftex.def Info: ./GB17626.pdf , page13 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 13>
+Package pdftex.def Info: ./GB17626.pdf , page13 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 13>
+Package pdftex.def Info: ./GB17626.pdf , page13 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[91
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1348, page=14, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 14>
+Package pdftex.def Info: ./GB17626.pdf , page14 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 14>
+Package pdftex.def Info: ./GB17626.pdf , page14 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 14>
+Package pdftex.def Info: ./GB17626.pdf , page14 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[92
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1354, page=15, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 15>
+Package pdftex.def Info: ./GB17626.pdf , page15 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 15>
+Package pdftex.def Info: ./GB17626.pdf , page15 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 15>
+Package pdftex.def Info: ./GB17626.pdf , page15 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[93
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1360, page=16, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 16>
+Package pdftex.def Info: ./GB17626.pdf , page16 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 16>
+Package pdftex.def Info: ./GB17626.pdf , page16 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 16>
+Package pdftex.def Info: ./GB17626.pdf , page16 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[94
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1366, page=17, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 17>
+Package pdftex.def Info: ./GB17626.pdf , page17 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 17>
+Package pdftex.def Info: ./GB17626.pdf , page17 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 17>
+Package pdftex.def Info: ./GB17626.pdf , page17 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[95
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1372, page=18, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 18>
+Package pdftex.def Info: ./GB17626.pdf , page18 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 18>
+Package pdftex.def Info: ./GB17626.pdf , page18 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 18>
+Package pdftex.def Info: ./GB17626.pdf , page18 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[96
+
+ <./GB17626.pdf>]
+<./GB17626.pdf, id=1378, page=19, 580.32808pt x 827.49153pt>
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 19>
+Package pdftex.def Info: ./GB17626.pdf , page19 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 19>
+Package pdftex.def Info: ./GB17626.pdf , page19 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB17626.pdf Graphic file (type pdf)
+<use ./GB17626.pdf, page 19>
+Package pdftex.def Info: ./GB17626.pdf , page19 used on input line 1117.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[97
+
+ <./GB17626.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./GB4208.pdf, id=1385, 594.05943pt x 845.31807pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf>
+Package pdftex.def Info: ./GB4208.pdf  used on input line 1119.
+(pdftex.def)             Requested size: 594.05798pt x 845.31601pt.
+<./GB4208.pdf, id=1387, page=1, 594.05943pt x 845.31807pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 1>
+Package pdftex.def Info: ./GB4208.pdf , page1 used on input line 1119.
+(pdftex.def)             Requested size: 594.05798pt x 845.31601pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 1>
+Package pdftex.def Info: ./GB4208.pdf , page1 used on input line 1119.
+(pdftex.def)             Requested size: 445.54349pt x 633.987pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1119.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[98]
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 1>
+Package pdftex.def Info: ./GB4208.pdf , page1 used on input line 1119.
+(pdftex.def)             Requested size: 445.54349pt x 633.987pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 1>
+Package pdftex.def Info: ./GB4208.pdf , page1 used on input line 1119.
+(pdftex.def)             Requested size: 445.54349pt x 633.987pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 1>
+Package pdftex.def Info: ./GB4208.pdf , page1 used on input line 1119.
+(pdftex.def)             Requested size: 445.54349pt x 633.987pt.
+[99
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1399, page=2, 593.81848pt x 845.55902pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 2>
+Package pdftex.def Info: ./GB4208.pdf , page2 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 634.16771pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 2>
+Package pdftex.def Info: ./GB4208.pdf , page2 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 634.16771pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 2>
+Package pdftex.def Info: ./GB4208.pdf , page2 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 634.16771pt.
+[100
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1405, page=3, 593.81848pt x 844.3545pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 3>
+Package pdftex.def Info: ./GB4208.pdf , page3 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 633.26433pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 3>
+Package pdftex.def Info: ./GB4208.pdf , page3 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 633.26433pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 3>
+Package pdftex.def Info: ./GB4208.pdf , page3 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 633.26433pt.
+[101
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1411, page=4, 593.81848pt x 844.5954pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 4>
+Package pdftex.def Info: ./GB4208.pdf , page4 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 633.44499pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 4>
+Package pdftex.def Info: ./GB4208.pdf , page4 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 633.44499pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 4>
+Package pdftex.def Info: ./GB4208.pdf , page4 used on input line 1119.
+(pdftex.def)             Requested size: 445.36276pt x 633.44499pt.
+[102
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1417, page=5, 595.023pt x 846.0408pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 5>
+Package pdftex.def Info: ./GB4208.pdf , page5 used on input line 1119.
+(pdftex.def)             Requested size: 446.26616pt x 634.52905pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 5>
+Package pdftex.def Info: ./GB4208.pdf , page5 used on input line 1119.
+(pdftex.def)             Requested size: 446.26616pt x 634.52905pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 5>
+Package pdftex.def Info: ./GB4208.pdf , page5 used on input line 1119.
+(pdftex.def)             Requested size: 446.26616pt x 634.52905pt.
+[103
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1424, page=6, 594.54121pt x 845.07718pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 6>
+Package pdftex.def Info: ./GB4208.pdf , page6 used on input line 1119.
+(pdftex.def)             Requested size: 445.90482pt x 633.80634pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 6>
+Package pdftex.def Info: ./GB4208.pdf , page6 used on input line 1119.
+(pdftex.def)             Requested size: 445.90482pt x 633.80634pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 6>
+Package pdftex.def Info: ./GB4208.pdf , page6 used on input line 1119.
+(pdftex.def)             Requested size: 445.90482pt x 633.80634pt.
+[104
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1430, page=7, 594.54121pt x 845.31807pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 7>
+Package pdftex.def Info: ./GB4208.pdf , page7 used on input line 1119.
+(pdftex.def)             Requested size: 445.90482pt x 633.987pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 7>
+Package pdftex.def Info: ./GB4208.pdf , page7 used on input line 1119.
+(pdftex.def)             Requested size: 445.90482pt x 633.987pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 7>
+Package pdftex.def Info: ./GB4208.pdf , page7 used on input line 1119.
+(pdftex.def)             Requested size: 445.90482pt x 633.987pt.
+[105
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1436, page=8, 594.7821pt x 844.3545pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 8>
+Package pdftex.def Info: ./GB4208.pdf , page8 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 633.26433pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 8>
+Package pdftex.def Info: ./GB4208.pdf , page8 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 633.26433pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 8>
+Package pdftex.def Info: ./GB4208.pdf , page8 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 633.26433pt.
+[106
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1442, page=9, 594.7821pt x 845.31807pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 9>
+Package pdftex.def Info: ./GB4208.pdf , page9 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 633.987pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 9>
+Package pdftex.def Info: ./GB4208.pdf , page9 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 633.987pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 9>
+Package pdftex.def Info: ./GB4208.pdf , page9 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 633.987pt.
+[107
+
+ <./GB4208.pdf>]
+<./GB4208.pdf, id=1448, page=10, 594.7821pt x 845.55902pt>
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 10>
+Package pdftex.def Info: ./GB4208.pdf , page10 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 634.16771pt.
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 10>
+Package pdftex.def Info: ./GB4208.pdf , page10 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 634.16771pt.
+
+
+File: ./GB4208.pdf Graphic file (type pdf)
+<use ./GB4208.pdf, page 10>
+Package pdftex.def Info: ./GB4208.pdf , page10 used on input line 1119.
+(pdftex.def)             Requested size: 446.08548pt x 634.16771pt.
+[108
+
+ <./GB4208.pdf>]
+Overfull \hbox (10.23419pt too wide) in paragraph at lines 1120--1120
+\OT1/cmr/bx/n/10 Audio/video,information and com-mu-ni-ca-tion tech-nol-ogy equip-
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1120.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1120.
+
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./GB5226.pdf, id=1454, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf>
+Package pdftex.def Info: ./GB5226.pdf  used on input line 1121.
+(pdftex.def)             Requested size: 580.32666pt x 827.48952pt.
+<./GB5226.pdf, id=1456, page=1, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 1>
+Package pdftex.def Info: ./GB5226.pdf , page1 used on input line 1121.
+(pdftex.def)             Requested size: 580.32666pt x 827.48952pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 1>
+Package pdftex.def Info: ./GB5226.pdf , page1 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1121.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[109]
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 1>
+Package pdftex.def Info: ./GB5226.pdf , page1 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 1>
+Package pdftex.def Info: ./GB5226.pdf , page1 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 1>
+Package pdftex.def Info: ./GB5226.pdf , page1 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[110
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1467, page=2, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 2>
+Package pdftex.def Info: ./GB5226.pdf , page2 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 2>
+Package pdftex.def Info: ./GB5226.pdf , page2 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 2>
+Package pdftex.def Info: ./GB5226.pdf , page2 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[111
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1473, page=3, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 3>
+Package pdftex.def Info: ./GB5226.pdf , page3 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 3>
+Package pdftex.def Info: ./GB5226.pdf , page3 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 3>
+Package pdftex.def Info: ./GB5226.pdf , page3 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[112
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1479, page=4, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 4>
+Package pdftex.def Info: ./GB5226.pdf , page4 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 4>
+Package pdftex.def Info: ./GB5226.pdf , page4 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 4>
+Package pdftex.def Info: ./GB5226.pdf , page4 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[113
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1485, page=5, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 5>
+Package pdftex.def Info: ./GB5226.pdf , page5 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 5>
+Package pdftex.def Info: ./GB5226.pdf , page5 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 5>
+Package pdftex.def Info: ./GB5226.pdf , page5 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[114
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1491, page=6, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 6>
+Package pdftex.def Info: ./GB5226.pdf , page6 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 6>
+Package pdftex.def Info: ./GB5226.pdf , page6 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 6>
+Package pdftex.def Info: ./GB5226.pdf , page6 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[115
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1498, page=7, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 7>
+Package pdftex.def Info: ./GB5226.pdf , page7 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 7>
+Package pdftex.def Info: ./GB5226.pdf , page7 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 7>
+Package pdftex.def Info: ./GB5226.pdf , page7 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[116
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1504, page=8, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 8>
+Package pdftex.def Info: ./GB5226.pdf , page8 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 8>
+Package pdftex.def Info: ./GB5226.pdf , page8 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 8>
+Package pdftex.def Info: ./GB5226.pdf , page8 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[117
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1510, page=9, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 9>
+Package pdftex.def Info: ./GB5226.pdf , page9 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 9>
+Package pdftex.def Info: ./GB5226.pdf , page9 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 9>
+Package pdftex.def Info: ./GB5226.pdf , page9 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[118
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1516, page=10, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 10>
+Package pdftex.def Info: ./GB5226.pdf , page10 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 10>
+Package pdftex.def Info: ./GB5226.pdf , page10 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 10>
+Package pdftex.def Info: ./GB5226.pdf , page10 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[119
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1522, page=11, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 11>
+Package pdftex.def Info: ./GB5226.pdf , page11 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 11>
+Package pdftex.def Info: ./GB5226.pdf , page11 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 11>
+Package pdftex.def Info: ./GB5226.pdf , page11 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[120
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1528, page=12, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 12>
+Package pdftex.def Info: ./GB5226.pdf , page12 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 12>
+Package pdftex.def Info: ./GB5226.pdf , page12 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 12>
+Package pdftex.def Info: ./GB5226.pdf , page12 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[121
+
+ <./GB5226.pdf>]
+<./GB5226.pdf, id=1535, page=13, 580.32808pt x 827.49153pt>
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 13>
+Package pdftex.def Info: ./GB5226.pdf , page13 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 13>
+Package pdftex.def Info: ./GB5226.pdf , page13 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+
+
+File: ./GB5226.pdf Graphic file (type pdf)
+<use ./GB5226.pdf, page 13>
+Package pdftex.def Info: ./GB5226.pdf , page13 used on input line 1121.
+(pdftex.def)             Requested size: 435.245pt x 620.61713pt.
+[122
+
+ <./GB5226.pdf>]
+Overfull \hbox (25.82774pt too wide) in paragraph at lines 1127--1127
+[]\OT1/cmr/bx/n/10 GB/T21563-2018/IEC61373:2010 \OT1/cmr/bx/it/10 Rail-way ap-pli-ca-tions | Rolling-
+ []
+
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1128.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[123
+
+]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./硬件测试报告_总览.pdf, id=1545, 845.04686pt x 597.50786pt>
+File: ./硬件测试报告_总览.pdf Graphic file (type pdf)
+<use ./硬件测试报告_总览.pdf>
+Package pdftex.def Info: ./硬件测试报告_总览.pdf  used on input line 1132.
+(pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
+<./硬件测试报告_总览.pdf, id=1547, page=1, 845.04686pt x 597.50786pt>
+File: ./硬件测试报告_总览.pdf Graphic file (type pdf)
+<use ./硬件测试报告_总览.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_总览.pdf , page1 used on input line 1132.
+(pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
+File: ./硬件测试报告_总览.pdf Graphic file (type pdf)
+<use ./硬件测试报告_总览.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_总览.pdf , page1 used on input line 1132.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+
+
+File: ./Ensoniclogo.png Graphic file (type png)
+<use ./Ensoniclogo.png>
+Package pdftex.def Info: ./Ensoniclogo.png  used on input line 1132.
+(pdftex.def)             Requested size: 68.99895pt x 35.48593pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 28.45964pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.45964pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.45964pt}.
+
+[124
+
+]
+File: ./硬件测试报告_总览.pdf Graphic file (type pdf)
+<use ./硬件测试报告_总览.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_总览.pdf , page1 used on input line 1132.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+File: ./硬件测试报告_总览.pdf Graphic file (type pdf)
+<use ./硬件测试报告_总览.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_总览.pdf , page1 used on input line 1132.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+
+
+File: ./硬件测试报告_总览.pdf Graphic file (type pdf)
+<use ./硬件测试报告_总览.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_总览.pdf , page1 used on input line 1132.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+[125
+
+ <./硬件测试报告_总览.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./硬件测试报告_功能测试.pdf, id=1592, 597.50786pt x 845.04686pt>
+File: ./硬件测试报告_功能测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_功能测试.pdf>
+Package pdftex.def Info: ./硬件测试报告_功能测试.pdf  used on input line 1133.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+<./硬件测试报告_功能测试.pdf, id=1594, page=1, 597.50786pt x 845.04686pt>
+File: ./硬件测试报告_功能测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_功能测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_功能测试.pdf , page1 used on input line 1133.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: ./硬件测试报告_功能测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_功能测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_功能测试.pdf , page1 used on input line 1133.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+File: ./硬件测试报告_功能测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_功能测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_功能测试.pdf , page1 used on input line 1133.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+File: ./硬件测试报告_功能测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_功能测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_功能测试.pdf , page1 used on input line 1133.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+
+
+File: ./硬件测试报告_功能测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_功能测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_功能测试.pdf , page1 used on input line 1133.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+[126
+
+ <./硬件测试报告_功能测试.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./硬件测试报告_声学测试.pdf, id=1641, 597.50786pt x 845.04686pt>
+File: ./硬件测试报告_声学测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_声学测试.pdf>
+Package pdftex.def Info: ./硬件测试报告_声学测试.pdf  used on input line 1134.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+<./硬件测试报告_声学测试.pdf, id=1643, page=1, 597.50786pt x 845.04686pt>
+File: ./硬件测试报告_声学测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_声学测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_声学测试.pdf , page1 used on input line 1134.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: ./硬件测试报告_声学测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_声学测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_声学测试.pdf , page1 used on input line 1134.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+File: ./硬件测试报告_声学测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_声学测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_声学测试.pdf , page1 used on input line 1134.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+File: ./硬件测试报告_声学测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_声学测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_声学测试.pdf , page1 used on input line 1134.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+
+
+File: ./硬件测试报告_声学测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_声学测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_声学测试.pdf , page1 used on input line 1134.
+(pdftex.def)             Requested size: 448.12979pt x 633.7836pt.
+[127
+
+ <./硬件测试报告_声学测试.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./硬件测试报告_稳定性测试.pdf, id=1678, 845.04686pt x 597.50786pt>
+File: ./硬件测试报告_稳定性测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_稳定性测试.pdf>
+Package pdftex.def Info: ./硬件测试报告_稳定性测试.pdf  used on input line 1135.
+(pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
+<./硬件测试报告_稳定性测试.pdf, id=1680, page=1, 845.04686pt x 597.50786pt>
+File: ./硬件测试报告_稳定性测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_稳定性测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_稳定性测试.pdf , page1 used on input line 1135.
+(pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
+File: ./硬件测试报告_稳定性测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_稳定性测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_稳定性测试.pdf , page1 used on input line 1135.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+File: ./硬件测试报告_稳定性测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_稳定性测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_稳定性测试.pdf , page1 used on input line 1135.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+File: ./硬件测试报告_稳定性测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_稳定性测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_稳定性测试.pdf , page1 used on input line 1135.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+
+
+File: ./硬件测试报告_稳定性测试.pdf Graphic file (type pdf)
+<use ./硬件测试报告_稳定性测试.pdf, page 1>
+Package pdftex.def Info: ./硬件测试报告_稳定性测试.pdf , page1 used on input line 1135.
+(pdftex.def)             Requested size: 633.7836pt x 448.12979pt.
+[128
+
+ <./硬件测试报告_稳定性测试.pdf>] (./RGME system design specification.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `"RGME system design specification".out' has not changed.
+(rerunfilecheck)             Checksum: 7B1670B6BEF48DB7CE5FEF850EFF4D33;15870.
+ ) 
+Here is how much of TeX's memory you used:
+ 14353 strings out of 473190
+ 235696 string characters out of 5715800
+ 629806 words of memory out of 5000000
+ 37091 multiletter control sequences out of 15000+600000
+ 568699 words of font info for 73 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,18n,79p,1282b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on "RGME system design specification.pdf" (128 pages, 36639234 bytes).
+PDF statistics:
+ 1863 PDF objects out of 2073 (max. 8388607)
+ 1288 compressed objects within 13 object streams
+ 328 named destinations out of 1000 (max. 500000)
+ 1299 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,80 @@
+\contentsline {section}{\numberline {1}Introduction}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background Introduction}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Drawbacks of Traditional Solution}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Advantage of Acoustic Solution}{7}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Document Organization}{7}{subsection.1.4}%
+\contentsline {section}{\numberline {2}System Architecture}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}System Overview}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Working Flow}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Function Modules}{9}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Working Principle}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Rolling Bearing Fault Diagnosis Principle}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Wheel Tread Fault Diagnosis Principle}{16}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Specifications of components}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}RGME Device}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Power Module}{20}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Battery Module}{20}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Electrical Schematic Diagrams}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Power Module Schematic Diagram}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Battery Module Schematic Diagram}{24}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Mechanical Design and Installation}{26}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Mechanical Design}{26}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}RGME Device}{26}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Battery Module}{28}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Power Module}{30}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}Installation Mounting}{32}{subsubsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.2}Installation with Battery Module}{34}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Installation Tools}{34}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Installation Equipment and Accessories}{34}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Pre-installation Preparation}{34}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Installation on Car}{36}{subsubsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.3}Installation with Power Module}{41}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Installation Tools}{41}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Installation Equipment and Accessories}{41}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Pre-installation Preparation}{43}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.4}Installation on Car}{47}{subsubsection.6.3.4}%
+\contentsline {subsubsection}{\numberline {6.3.5}Cable Laying and Protection}{50}{subsubsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.4}Calculation Report of Installation}{52}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Each Module with Mounting}{52}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Each Module with Structure Beam}{52}{subsubsection.6.4.2}%
+\contentsline {section}{\numberline {7}Safety Management Plan}{53}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Introduction}{53}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Safety Policy}{53}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Harzad Identification and Risk Assessment}{53}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Harzard Identification}{53}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}Risk Assessment}{53}{subsubsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.4}Safety Measures}{53}{subsection.7.4}%
+\contentsline {paragraph}{Electrical Safety}{53}{section*.22}%
+\contentsline {paragraph}{Mechanical Safety}{54}{section*.23}%
+\contentsline {paragraph}{Electromagnetic Safety}{54}{section*.24}%
+\contentsline {paragraph}{Software Safety}{54}{section*.25}%
+\contentsline {subsection}{\numberline {7.5}Safety Training}{55}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Emergency Response Plan}{55}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Monitoring and Review}{55}{subsection.7.7}%
+\contentsline {section}{\numberline {8}Harzard Log and Risk Register}{56}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Operational Harzard Log}{56}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Project Risk Register}{57}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Management Risks}{57}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Technical Risks}{59}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Business Risks}{61}{subsubsection.8.2.3}%
+\contentsline {section}{\numberline {9}Qualitiy Management Plan}{62}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Introduction}{62}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Quality assurance organizational structure and responsibilities}{62}{subsection.9.2}%
+\contentsline {section}{\numberline {10}MMI Design}{63}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Device Info}{63}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Sampling Configurations}{63}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Storage Configurations}{64}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Network Configurations}{65}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Server Configurations}{65}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Data Management}{66}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Log Report}{67}{subsection.10.7}%
+\contentsline {section}{\numberline {11}Complied Standards}{68}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Already Complied Standards}{69}{subsection.11.1}%
+\contentsline {subsubsection}{\numberline {11.1.1}GB/T2423-2016/IEC60068:2012 \textit {Environmental testing}}{69}{subsubsection.11.1.1}%
+\contentsline {subsubsection}{\numberline {11.1.2}GB/T17626-2018/IEC61000:2008 \textit {Electromagnetic compatibility (EMC)}}{78}{subsubsection.11.1.2}%
+\contentsline {subsubsection}{\numberline {11.1.3}GB/T4208-2017/IEC60529:2013 \textit {Degrees of protection provided by enclosures (IP code)}}{98}{subsubsection.11.1.3}%
+\contentsline {subsubsection}{\numberline {11.1.4}GB5226-1-2019/IEC60204-1:2016 \textit {Safety of machinery - Electrical equipment of machines General requirements}\\GB4943.1-2022/IEC62368-1:2018 \\Audio/video,information and communication technology equipment Safety requirements}{109}{subsubsection.11.1.4}%
+\contentsline {subsection}{\numberline {11.2}To Be Complied Standards}{123}{subsection.11.2}%
+\contentsline {subsubsection}{\numberline {11.2.1}EN 50155:2017 \textit {Railway applications — Rolling stock equipment — electronic equipment}}{123}{subsubsection.11.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.2}GB/T21563-2018/IEC61373:2010 \textit {Railway applications — Rollingstock equipment — Shock and vibration tests}}{123}{subsubsection.11.2.2}%
+\contentsline {section}{\numberline {12}Factory Test Report}{124}{section.12}%
